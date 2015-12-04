@@ -5,7 +5,6 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 import {Router, Route, IndexRoute} from 'react-router';
 
-// import headerSetup from './header-setup'
 import Home from './components/home'
 import Login from './components/login'
 import Register from './components/register'
